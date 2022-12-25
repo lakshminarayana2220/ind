@@ -1,2 +1,2 @@
 # ind
-ind repo for github commands demonstartion
+ind repo for commands demonstartion
